@@ -18,6 +18,6 @@ jobs:
       - name: Upload Robot to Control Room
         uses: robocorp/action-upload-robot@v1
         with:
-          workspace-key: ${{ secrets.ROBOCORP_WORKSPACE_KEY }}
-          workspace-id: ${{ secrets.ROBOCORP_WORKSPACE_ID }}
-          robot-id: ${{ secrets.ROBOCORP_ROBOT_ID }}
+          workspace-key: ${{ secrets.DRyv23k0budXYVBV0zVycRpHrvbtTzx5lveycyQtqyg3fZWZb1jzjj2pIsn8A729jwbBYFMhnmEDtjKhAggNjaFDp6iLw6OEuG0bm9evSKxKZmcrlVfdQd9ipLHBK1 }}
+          workspace-id: ${{ secrets.e338b37b-87a2-46e5-835a-72c0ea3cc34c }}
+          robot-id: ${{ secrets.22949 }}
